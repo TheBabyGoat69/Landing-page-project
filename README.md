@@ -1,1 +1,1 @@
-code along landing page project from online teacher
+code along landing page project 
